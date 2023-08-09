@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        
+        backgroundColor: Colors.deepPurple,
         body: Container(
           decoration: const BoxDecoration(
             gradient: LinearGradient(
